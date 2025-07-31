@@ -1,0 +1,20 @@
+Bolleann = Suporte Comando
+Mirror = Comando, raquete
+Bevel = Casa
+Subdivide Surface = Chão Casa
+Bezier = Trofeu, raquete, coração
+Imagem = Candeeiro, armário, simbolo do carro.
+Geometry Nodes = Tapete Quarto, virus vivo
+Nurbs = Candeeiro, armário
+Sub-Division, Mirror = Pop_Peche
+Sub-Division = Bandeira, Bola de Padel, aro da raquete
+Wireframe = base da raquete.
+Cloth = Bandeira
+Solidify = Bandeira
+Sistema Particulas = Bola de Padel e Tapete
+
+Iluminação da Casa Feita :)
+Iluminação do Quarto Feita :)
+Camara -> quarto
+Cores -> Casa
+Iluminação da Intro Feita
